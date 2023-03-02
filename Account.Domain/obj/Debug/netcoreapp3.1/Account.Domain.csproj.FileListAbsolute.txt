@@ -1,0 +1,10 @@
+/Users/arnesrogo/Desktop/Account/Account.Domain/bin/Debug/netcoreapp3.1/Account.Domain.deps.json
+/Users/arnesrogo/Desktop/Account/Account.Domain/bin/Debug/netcoreapp3.1/Account.Domain.dll
+/Users/arnesrogo/Desktop/Account/Account.Domain/bin/Debug/netcoreapp3.1/Account.Domain.pdb
+/Users/arnesrogo/Desktop/Account/Account.Domain/obj/Debug/netcoreapp3.1/Account.Domain.csproj.AssemblyReference.cache
+/Users/arnesrogo/Desktop/Account/Account.Domain/obj/Debug/netcoreapp3.1/Account.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnesrogo/Desktop/Account/Account.Domain/obj/Debug/netcoreapp3.1/Account.Domain.AssemblyInfoInputs.cache
+/Users/arnesrogo/Desktop/Account/Account.Domain/obj/Debug/netcoreapp3.1/Account.Domain.AssemblyInfo.cs
+/Users/arnesrogo/Desktop/Account/Account.Domain/obj/Debug/netcoreapp3.1/Account.Domain.csproj.CoreCompileInputs.cache
+/Users/arnesrogo/Desktop/Account/Account.Domain/obj/Debug/netcoreapp3.1/Account.Domain.dll
+/Users/arnesrogo/Desktop/Account/Account.Domain/obj/Debug/netcoreapp3.1/Account.Domain.pdb

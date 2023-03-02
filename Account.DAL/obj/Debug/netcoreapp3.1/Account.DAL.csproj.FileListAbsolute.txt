@@ -1,0 +1,13 @@
+/Users/arnesrogo/Desktop/Account/Account.DAL/bin/Debug/netcoreapp3.1/Account.DAL.deps.json
+/Users/arnesrogo/Desktop/Account/Account.DAL/bin/Debug/netcoreapp3.1/Account.DAL.dll
+/Users/arnesrogo/Desktop/Account/Account.DAL/bin/Debug/netcoreapp3.1/Account.DAL.pdb
+/Users/arnesrogo/Desktop/Account/Account.DAL/obj/Debug/netcoreapp3.1/Account.DAL.csproj.AssemblyReference.cache
+/Users/arnesrogo/Desktop/Account/Account.DAL/obj/Debug/netcoreapp3.1/Account.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnesrogo/Desktop/Account/Account.DAL/obj/Debug/netcoreapp3.1/Account.DAL.AssemblyInfoInputs.cache
+/Users/arnesrogo/Desktop/Account/Account.DAL/obj/Debug/netcoreapp3.1/Account.DAL.AssemblyInfo.cs
+/Users/arnesrogo/Desktop/Account/Account.DAL/obj/Debug/netcoreapp3.1/Account.DAL.csproj.CoreCompileInputs.cache
+/Users/arnesrogo/Desktop/Account/Account.DAL/obj/Debug/netcoreapp3.1/Account.DAL.dll
+/Users/arnesrogo/Desktop/Account/Account.DAL/obj/Debug/netcoreapp3.1/Account.DAL.pdb
+/Users/arnesrogo/Desktop/Account/Account.DAL/bin/Debug/netcoreapp3.1/Account.Domain.dll
+/Users/arnesrogo/Desktop/Account/Account.DAL/bin/Debug/netcoreapp3.1/Account.Domain.pdb
+/Users/arnesrogo/Desktop/Account/Account.DAL/obj/Debug/netcoreapp3.1/Account.DAL.csproj.CopyComplete

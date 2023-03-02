@@ -1,0 +1,15 @@
+/Users/arnesrogo/Desktop/Account/Account.BLL/bin/Debug/netcoreapp3.1/Account.BLL.deps.json
+/Users/arnesrogo/Desktop/Account/Account.BLL/bin/Debug/netcoreapp3.1/Account.BLL.dll
+/Users/arnesrogo/Desktop/Account/Account.BLL/bin/Debug/netcoreapp3.1/Account.BLL.pdb
+/Users/arnesrogo/Desktop/Account/Account.BLL/obj/Debug/netcoreapp3.1/Account.BLL.csproj.AssemblyReference.cache
+/Users/arnesrogo/Desktop/Account/Account.BLL/obj/Debug/netcoreapp3.1/Account.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnesrogo/Desktop/Account/Account.BLL/obj/Debug/netcoreapp3.1/Account.BLL.AssemblyInfoInputs.cache
+/Users/arnesrogo/Desktop/Account/Account.BLL/obj/Debug/netcoreapp3.1/Account.BLL.AssemblyInfo.cs
+/Users/arnesrogo/Desktop/Account/Account.BLL/obj/Debug/netcoreapp3.1/Account.BLL.csproj.CoreCompileInputs.cache
+/Users/arnesrogo/Desktop/Account/Account.BLL/obj/Debug/netcoreapp3.1/Account.BLL.dll
+/Users/arnesrogo/Desktop/Account/Account.BLL/obj/Debug/netcoreapp3.1/Account.BLL.pdb
+/Users/arnesrogo/Desktop/Account/Account.BLL/obj/Debug/netcoreapp3.1/Account.BLL.csproj.CopyComplete
+/Users/arnesrogo/Desktop/Account/Account.BLL/bin/Debug/netcoreapp3.1/Account.Domain.dll
+/Users/arnesrogo/Desktop/Account/Account.BLL/bin/Debug/netcoreapp3.1/Account.Domain.pdb
+/Users/arnesrogo/Desktop/Account/Account.BLL/bin/Debug/netcoreapp3.1/Account.DAL.dll
+/Users/arnesrogo/Desktop/Account/Account.BLL/bin/Debug/netcoreapp3.1/Account.DAL.pdb
